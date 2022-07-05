@@ -1,0 +1,16 @@
+{
+  "name": "profile-image-compression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-image-resize": "^0.13.1",
+    "gulp-imagemin": "^7.0.1"
+  }
+}
